@@ -139,7 +139,7 @@ score = 80;
 ```
 <br>
 Ans:-
-const name = "Sumit";
+const name = "Aditya";
 
 let age = 20;
 age = 25;
