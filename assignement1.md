@@ -157,7 +157,7 @@ The frontend is like the restaurant area the customer interacts with, while the 
 **Q20.** Predict the output of the following code and explain why:
 
 ```javascript
-let value = 25;
+let value = 30;
 console.log(typeof value);
 value = "JavaScript";
 console.log(typeof value);
