@@ -8,7 +8,7 @@
 Declare variables for `name`, `age`, and `city` using appropriate variable keywords. Assign values and print all three variables.
 <br>
 Ans==>>>
-let name = Nishit;
+let name = Aditya;
 let age = 18;
 let city = "Ahmedabad";
 
@@ -57,7 +57,7 @@ Create the following variables using the most appropriate keyword:
 Assign values to all three variables. Change `marks` and print all variables.
 <br>
 Ans===>>>>
-let studentName= "Nishit";
+let studentName= "Aditya";
 var marks= 40;
 const schoolName="codinggita";
 console.log(studentName);
@@ -80,10 +80,10 @@ console.log(c);
 **7. Test Re-declaration**
 Declare a variable named `user` using `var` and declare it again with a different value. Then perform the same experiment using `let`. Observe what happens and identify which declaration allows re-declaration.<br>
 Ans==>>
-var user="Nishit";
+var user="Aditya";
 var user="Nishu";
 console.log(user);
-let user="Nishit";
+let user="Aditya";
 let user="Nishu";
 console.log(user);
 
@@ -139,7 +139,7 @@ score = 80;
 ```
 <br>
 Ans:-
-const name = "Sumit";
+const name = "Aditya";
 
 let age = 20;
 age = 25;
