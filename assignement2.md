@@ -9,8 +9,8 @@ Declare variables for `name`, `age`, and `city` using appropriate variable keywo
 <br>
 Ans==>>>
 let name = Aditya;
-let age = 18;
-let city = "Ahmedabad";
+let age = 19;
+let city = "Ghandhinagar";
 
 console.log(name);
 console.log(age);
